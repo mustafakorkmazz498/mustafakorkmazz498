@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Merhaba ben Mustafa Korkmaz. Trakya üniversitesi bilgisayar teknolojisi ve bilişim sistemleri bölümü(CTIS) mezunuyum. 
+###    Full stack olarak kendimi geliştirmekteyim. .Net Core, angular ve react teknolojilerini kullanmaktayım. Öğrenmeye açığım ve yeni teknolojileri yakından takip ediyorum.
+###    Yazılıma ilk başladığım andan bu yana kendime çok şey katmış olsam da hala kendime bir şeyler katmak en büyük tutkum. Öğrenmek ve uygulayabilmekten çok keyif alıyorum.
+###    Yazılım dışında dizi, film izlemeyi, yüzmeyi, futbol ve voleybol oynamayı seviyorum.
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mustafakorkmazz)
 
 <!--
 **mustafakorkmazz498/mustafakorkmazz498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
