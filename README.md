@@ -12,6 +12,10 @@ Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Fu
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-0064A5?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 [![Seq](https://img.shields.io/badge/Seq-3498DB?style=for-the-badge&logo=seq&logoColor=white)](https://datalust.co/seq)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 Yazılıma olan tutkum sayesinde birçok proje üzerinde çalıştım ve hala öğrenmeye ve denemeye istekliyim. Yazılımın sınırsız dünyasında her zaman yeni şeyler öğrenmek beni heyecanlandırıyor.
 
