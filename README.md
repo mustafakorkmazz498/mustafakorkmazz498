@@ -1,6 +1,6 @@
 ### Merhaba, Ben Mustafa Korkmaz! 👋
 
-Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Full stack geliştirici olarak kendimi sürekli geliştirmekteyim ve yazılım dünyasındaki yenilikleri takip etmeye bayılıyorum.
+Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Full stack developer olarak kendimi sürekli geliştirmekteyim ve yazılım dünyasındaki yenilikleri takip etmeye bayılıyorum.
 
 #### Kullandığım Teknolojiler:
 
