@@ -1,17 +1,16 @@
 ### Merhaba, Ben Mustafa Korkmaz! 👋
 
-Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Full stack developer olarak kendimi sürekli geliştirmekteyim ve yazılım dünyasındaki yenilikleri takip etmeye bayılıyorum.
+Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Full stack developer olarak kendimi sürekli geliştirmekteyim ve yazılım dünyasındaki yenilikleri takip etmeyi seviyorum.
 
 #### Kullandığım Teknolojiler:
 
 [![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![DBeaver](https://img.shields.io/badge/DBeaver-0064A5?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
-[![Seq](https://img.shields.io/badge/Seq-3498DB?style=for-the-badge&logo=seq&logoColor=white)](https://datalust.co/seq)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
