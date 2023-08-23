@@ -16,7 +16,7 @@ Trakya Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri mezunuyum. Fu
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/signalr)
+
 
 
 Yazılıma olan tutkum sayesinde birçok proje üzerinde çalıştım ve hala öğrenmeye ve denemeye istekliyim. Yazılımın sınırsız dünyasında her zaman yeni şeyler öğrenmek beni heyecanlandırıyor.
